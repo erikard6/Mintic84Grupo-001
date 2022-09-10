@@ -1,0 +1,17 @@
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.deps.json
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.runtimeconfig.json
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.pdb
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Dominio.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Dominio.pdb
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.csproj.AssemblyReference.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.AssemblyInfoInputs.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.AssemblyInfo.cs
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.csproj.CopyComplete
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\refint\Alquiler.App.Persistencia.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.pdb
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.genruntimeconfig.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\ref\Alquiler.App.Persistencia.dll
