@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {}
+    "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {
+    "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj",
         "projectName": "Alquiler.App.Dominio",
-        "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj",
-        "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
-        "outputPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\obj\\",
+        "projectPath": "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\erika\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\erika\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

@@ -15,3 +15,20 @@ C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\refint\Alqui
 C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.pdb
 C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.genruntimeconfig.cache
 C:\Alquiler\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\ref\Alquiler.App.Persistencia.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\refint\Alquiler.App.Persistencia.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.pdb
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.deps.json
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.runtimeconfig.json
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Persistencia.pdb
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Dominio.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\bin\Debug\net6.0\Alquiler.App.Dominio.pdb
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.csproj.CopyComplete
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\Alquiler.App.Persistencia.genruntimeconfig.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Persistencia\obj\Debug\net6.0\ref\Alquiler.App.Persistencia.dll

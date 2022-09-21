@@ -1,0 +1,35 @@
+﻿@page
+@model Alquiler.App.Presentacion
+@{
+}
+ 
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nombre</th>
+      <th scope="col">Correo</th>
+      <th scope="col">identificacion</th>
+      <th scope="col">Tipo De Licencia</th>
+      <th scope="col">Celular</th>
+      </tr>
+  </thead>
+  <tbody>
+    @foreach (var cliente in Model.clientes)
+    {
+        <tr>
+            <td>@cliente.identificacion</td>
+            <td>@cliente.nombre</td>
+            <td>@cliente.correo</td>
+            <td>@cliente.tipolicencia</td>
+            <td>@cliente.celular</td>
+            <td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-clienteId="@cliente.identificacion"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-clienteId="@cliente.identificacion">Editar</a>
+              <a class="btn btn-danger" href="">Eliminar</a>
+            </td>
+        </tr>
+    }
+ 
+  </tbody>
+</table>

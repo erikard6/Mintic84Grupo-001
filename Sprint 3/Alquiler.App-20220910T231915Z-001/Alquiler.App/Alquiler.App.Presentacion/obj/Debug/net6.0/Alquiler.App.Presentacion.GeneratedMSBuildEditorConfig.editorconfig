@@ -8,37 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Alquiler.App.Presentacion
 build_property.RootNamespace = Alquiler.App.Presentacion
-build_property.ProjectDir = C:\Alquiler\Alquiler.App\Alquiler.App.Presentacion\
+build_property.ProjectDir = C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Alquiler\Alquiler.App\Alquiler.App.Presentacion
+build_property.MSBuildProjectDirectory = C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/Error.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Cliente/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Cliente/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Cliente/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/Index.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/Privacy.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/_ViewImports.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/vehiculo/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmVoaWN1bG9cQ3JlYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/vehiculo/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmVoaWN1bG9cRWRpdGFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/vehiculo/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcdmVoaWN1bG9cTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/_ViewStart.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Alquiler/Alquiler.App/Alquiler.App.Presentacion/Pages/Shared/_Layout.cshtml]
+[C:/Users/erika/OneDrive/Documentos/Min TIC/Ciclo 3/Grupo001/Mintic84Grupo-001/Sprint 3/Alquiler.App-20220910T231915Z-001/Alquiler.App/Alquiler.App.Presentacion/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-4ndacwyz2x

@@ -67,3 +67,14 @@ C:\Alquiler\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\refint\Alqui
 C:\Alquiler\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.pdb
 C:\Alquiler\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.genruntimeconfig.cache
 C:\Alquiler\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\ref\Alquiler.App.Presentacion.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\refint\Alquiler.App.Presentacion.dll
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.pdb
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.csproj.AssemblyReference.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.AssemblyInfoInputs.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.AssemblyInfo.cs
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.RazorAssemblyInfo.cache
+C:\Users\erika\OneDrive\Documentos\Min TIC\Ciclo 3\Grupo001\Mintic84Grupo-001\Sprint 3\Alquiler.App-20220910T231915Z-001\Alquiler.App\Alquiler.App.Presentacion\obj\Debug\net6.0\Alquiler.App.Presentacion.RazorAssemblyInfo.cs
