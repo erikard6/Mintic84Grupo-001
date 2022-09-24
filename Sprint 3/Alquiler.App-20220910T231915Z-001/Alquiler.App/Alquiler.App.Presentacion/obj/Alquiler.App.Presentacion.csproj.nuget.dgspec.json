@@ -158,9 +158,6 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {
-                "projectPath": "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj"
-              },
               "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj": {
                 "projectPath": "C:\\Users\\erika\\OneDrive\\Documentos\\Min TIC\\Ciclo 3\\Grupo001\\Mintic84Grupo-001\\Sprint 3\\Alquiler.App-20220910T231915Z-001\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj"
               }

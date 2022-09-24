@@ -20,7 +20,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Alquiler.App.Dominio\Alquiler.App.Dominio.csproj" />
     <ProjectReference Include="..\Alquiler.App.Persistencia\Alquiler.App.Persistencia.csproj" />
   </ItemGroup>
 
