@@ -1,0 +1,96 @@
+﻿@page
+@model Alquiler.App.Presentacion.Clientes.CrearModel
+@{
+    ViewData["Title"] = "Crear Nuevo Cliente";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="text-info">Crear un nuevo cliente</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-sumary="ModelOnly" class="text-danger">
+                <div class="container" style="padding: 30px">
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.identificacion"></label>
+                            </div>
+                            <div class="col-sm-3">
+                                <input asp-for="cliente.identificacion" class="form-control" />
+                            </div>
+                            <span asp-validation-for="cliente.identificacion" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.nombre"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="cliente.nombre" class="form-control" />
+                            </div>
+                            <span asp-validation-for="cliente.nombre" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.correo"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input type= "email" asp-for="cliente.correo" class="form-control" />
+                            </div>
+                            <span asp-validation-for="cliente.correo" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.celular"></label>
+                            </div>
+                            <div class="col-sm-3">
+                                <input asp-for="cliente.celular" class="form-control" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.tipoLicencia"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="cliente.tipoLicencia" class="form-control" />
+                            </div>
+                            <span asp-validation-for="cliente.tipoLicencia" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.licencia"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="cliente.licencia" class="form-control" />
+                            </div>
+                            <span asp-validation-for="cliente.licencia" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2 offset-sm-2"> 
+                                <input type="submit" value="Crear" class="btn btn-success form-control" />
+                            </div>
+                            <div class="col-sm-4">
+                                <a asp-page="List" class="btn btn-primary form-control">Volver a la Lista</a>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

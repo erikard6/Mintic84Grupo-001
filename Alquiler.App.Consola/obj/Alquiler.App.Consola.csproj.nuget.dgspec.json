@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Consola\\Alquiler.App.Consola.csproj": {}
+  },
+  "projects": {
+    "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Consola\\Alquiler.App.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Consola\\Alquiler.App.Consola.csproj",
+        "projectName": "Alquiler.App.Consola",
+        "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Consola\\Alquiler.App.Consola.csproj",
+        "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
+        "outputPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Consola\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {
+                "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj"
+              },
+              "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj": {
+                "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj",
+        "projectName": "Alquiler.App.Dominio",
+        "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj",
+        "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
+        "outputPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj",
+        "projectName": "Alquiler.App.Persistencia",
+        "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Persistencia\\Alquiler.App.Persistencia.csproj",
+        "packagesPath": "C:\\Users\\jimen\\.nuget\\packages\\",
+        "outputPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Persistencia\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jimen\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj": {
+                "projectPath": "C:\\Alquiler\\Alquiler.App\\Alquiler.App.Dominio\\Alquiler.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

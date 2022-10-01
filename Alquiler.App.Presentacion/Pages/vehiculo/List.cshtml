@@ -1,0 +1,32 @@
+@page
+@model Alquiler.App.Presentacion.Pages
+@{
+}
+ 
+<table class="table table-hover">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Placa de Vehiculo</th>
+      <th scope="col">Modelo Del Vehiculo</th>
+      <th scope="col">Precio </th>
+      
+      </tr>
+  </thead>
+  <tbody>
+    @foreach (var vehiculo in Model.vehiculos)
+    {
+        <tr>
+            <td>@vehiculo.veh_placa</td>
+            <td>@vehiculo.veh_modelo</td>
+            <td>@vehiculo.veh_precio</td>
+            <td>
+              <a class="btn btn-info" asp-page="./Details" asp-route-vehiculoId="@cliente.identificacion"><i class="fas fa-adjust"></i>Ver</a>
+              <a class="btn btn-info" asp-page="./Edit" asp-route-vehiculoId="@cliente.identificacion">Editar</a>
+              <a class="btn btn-danger" href="">Eliminar</a>
+            </td>
+        </tr>
+    }
+ 
+  </tbody>
+</table>

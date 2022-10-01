@@ -1,0 +1,12 @@
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\bin\Debug\net6.0\Alquiler.App.Dominio.deps.json
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\bin\Debug\net6.0\Alquiler.App.Dominio.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\bin\Debug\net6.0\Alquiler.App.Dominio.pdb
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.csproj.AssemblyReference.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.AssemblyInfoInputs.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.AssemblyInfo.cs
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.csproj.CoreCompileInputs.cache
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\refint\Alquiler.App.Dominio.dll
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\Alquiler.App.Dominio.pdb
+C:\Alquiler\Alquiler.App\Alquiler.App.Dominio\obj\Debug\net6.0\ref\Alquiler.App.Dominio.dll

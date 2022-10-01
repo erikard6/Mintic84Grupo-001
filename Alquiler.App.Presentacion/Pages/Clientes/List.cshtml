@@ -1,0 +1,65 @@
+﻿@page
+@model Alquiler.App.Presentacion.Page.Clientes.ListModel
+@{
+    ViewData["Title"] = "Lista de clientes"; 
+}
+
+<div class="card">
+    <div class="card-header">
+        <div class="row">
+            <div class="col-sm-6">
+                <h2><div class="text-info">Lista de Clientes</h2>
+            </div>
+            <div class="col-sm-6">
+                 <a class="btn btn-primary btn-sm" asp-page="./Crear">
+                            Crear Cliente
+                 </a>
+            </div>            
+        </div>    
+    </div>
+    <div class="card-body">
+        @if (Model.clientes.Count() > 0) { 
+            <br /><br />
+            <table class="table table-striped border">
+                <tr class="table-secondary">
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().id)</th>
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().identificacion)</th>
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().nombre)</th>
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().correo)</th>
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().celular)</th>
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().tipoLicencia)</th>
+                    <th>@Html.DisplayNameFor(m => m.clientes.First().licencia)</th>
+                    <th>ACCIONES</th>
+                </tr>
+                @foreach (var item in Model.clientes)  {
+                <tr>
+                    <td>@Html.DisplayFor(m => item.id)</td>
+                    <td>@Html.DisplayFor(m => item.identificacion)</td>
+                    <td>@Html.DisplayFor(m => item.nombre)</td>
+                    <td>@Html.DisplayFor(m => item.correo)</td>
+                    <td>@Html.DisplayFor(m => item.celular)</td>
+                    <td>@Html.DisplayFor(m => item.tipoLicencia)</td>
+                    <td>@Html.DisplayFor(m => item.licencia)</td>
+                    <td>
+                        <a class="btn btn-primary btn-sm" asp-page="./Details" asp-route-clienteId="@item.id">
+                            Detalle</a>
+                    </td>
+
+                    <td>
+                        <a class="btn btn-success btn-sm" asp-page="./Editar" asp-route-clienteId="@item.id">
+                            Editar
+                        </a>
+                    </td> 
+
+                    <td>
+                        <a class="btn btn-danger btn-sm" asp-page="./Delete" asp-route-clienteId="@item.id">
+                            Eliminar
+                        </a>
+                    </td> 
+                </tr>    }
+            </table>
+        }else{
+            <p>No hay clientes disponibles</p>
+        }
+    </div>
+</div>

@@ -1,0 +1,111 @@
+﻿@page
+@model Alquiler.App.Presentacion.Clientes.EditarModel
+@{
+    ViewData["Title"] = "Editar Cliente";
+}
+
+<div class="card">
+    <div class="card-header">
+        <h2 class="text-info">Editar cliente</h2>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div asp-validation-sumary="ModelOnly" class="text-danger">
+                <div class="container" style="padding: 30px">
+                    <!-- se envía campo de la PK oculto -->
+                <input type="hidden"  asp-for="cliente.id" />
+
+                    <div class="form-group">
+                            <div class="row">
+                                <div class="col-sm-2"> 
+                                    <label asp-for="cliente.id"></label>
+                                </div>
+                                <div class="col-sm-1">
+                                    <input asp-for="cliente.id" class="form-control" value= "@Model.cliente.id" disabled/>
+                                </div>
+                                <span asp-validation-for="cliente.id" class="text-danger"></span>
+                            </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.identificacion"></label>
+                            </div>
+                            <div class="col-sm-3">
+                                <input asp-for="cliente.identificacion" class="form-control" value= "@Model.cliente.identificacion" />
+                            </div>
+                            <span asp-validation-for="cliente.identificacion" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.nombre"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="cliente.nombre" class="form-control" value = "@Model.cliente.nombre" />
+                            </div>
+                            <span asp-validation-for="cliente.nombre" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.correo"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input type= "email" asp-for="cliente.correo" class="form-control" value = "@Model.cliente.correo" />
+                            </div>
+                            <span asp-validation-for="cliente.correo" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.celular"></label>
+                            </div>
+                            <div class="col-sm-3">
+                                <input asp-for="cliente.celular" class="form-control" value = "@Model.cliente.celular" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.tipoLicencia"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="cliente.tipoLicencia" class="form-control" value = "@Model.cliente.tipoLicencia" />
+                            </div>
+                            <span asp-validation-for="cliente.tipoLicencia" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2"> 
+                                <label asp-for="cliente.licencia"></label>
+                            </div>
+                            <div class="col-sm-6">
+                                <input asp-for="cliente.licencia" class="form-control" value = "@Model.cliente.licencia" />
+                            </div>
+                            <span asp-validation-for="cliente.licencia" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <div class="row">
+                            <div class="col-sm-2 offset-sm-2"> 
+                                <input type="submit" value="Actualizar" class="btn btn-success form-control" />
+                            </div>
+                            <div class="col-sm-4">
+                                <a asp-page="List" class="btn btn-primary form-control">Volver a la Lista</a>
+                            </div>                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
